@@ -2,4 +2,4 @@
 
 N-queen problem solved by genetic algorithm.
 
-this project 
+In the report, the value of n is 5.
