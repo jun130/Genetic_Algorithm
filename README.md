@@ -4,6 +4,9 @@
 
 In the report, the value of **N** is **5**.
 
+
+
+
 **true 5-queen**
 
 <img src="https://user-images.githubusercontent.com/38622982/86523760-25707200-beac-11ea-8e93-e492ad17babb.png" width="50%"></img>
