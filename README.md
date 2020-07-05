@@ -4,8 +4,8 @@
 
 In the report, the value of **N** is **5**.  
 
-
-
+#
+#
 
 **true 5-queen**
 
